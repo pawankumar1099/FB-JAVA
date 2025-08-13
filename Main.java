@@ -1,0 +1,11 @@
+public class Main {
+   public static void main(String[] args) {
+    System.out.println("Pawan Kumar");
+    System.out.println("FB");
+    System.out.println(48);
+
+
+    
+   }
+  
+}
