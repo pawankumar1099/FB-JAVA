@@ -3,7 +3,7 @@ public class bitwise {
         System.out.println(2&3);
         System.out.println(6|5);
         System.out.println(6^5);
-        System.out.println(~5);
+        System.out.println(~2); 
     }
     
 }
